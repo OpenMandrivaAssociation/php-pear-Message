@@ -5,7 +5,7 @@
 Summary:	%{_pearname} - Message hash and digest (HMAC) generation methods and classes
 Name:		php-pear-%{_pearname}
 Version:	0.6
-Release:	%mkrel 8
+Release:	%mkrel 9
 License:	PHP License
 Group:		Development/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tar.bz2
