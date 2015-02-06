@@ -3,7 +3,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	0.6
-Release:	14
+Release:	15
 Summary:	Message hash and digest (HMAC) generation methods and classes
 License:	PHP License
 Group:		Development/PHP
